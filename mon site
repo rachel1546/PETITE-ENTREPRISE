@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rachel NKOU - Compétences en Informatique</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Bienvenue sur mon portfolio</h1>
+    <p>Je suis étudiante en informatique passionnée par le développement web et l'intelligence artificielle.</p>
+  </header>
+
+  <section id="about">
+    <h2>À propos de moi</h2>
+    <p>Je m'appelle Rachel NKOU, actuellement en Bachelor 1 en informatique. J’aime concevoir des applications web modernes et apprendre des technologies avancées comme l’IA et le développement d’interfaces utilisateurs.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Mes compétences</h2>
+    <div class="skills">
+      <span class="skill">HTML5</span>
+      <span class="skill">CSS3</span>
+      <span class="skill">JavaScript</span>
+      <span class="skill">PHP</span>
+      <span class="skill">MySQL</span>
+      <span class="skill">Python</span>
+      <span class="skill">VBA</span>
+      <span class="skill">Git & GitHub</span>
+      <span class="skill">Wireshark</span>
+      <span class="skill">Cisco (CCNA1)</span>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Mes projets</h2>
+    <ul>
+      <li>🛒 Site e-commerce anti-gaspi en PHP</li>
+      <li>📊 Application RH avec IA de prédiction de turnover</li>
+      <li>🍽 Application VBA pour la gestion de repas africains</li>
+      <li>🌐 Blog personnel en HTML/CSS</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📧 Email : <a href="mailto:nkou.rachel@example.com">nkou.rachel@example.com</a></p>
+    <p>📱 Téléphone : +237 6XX XXX XXX</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rachel NKOU. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
